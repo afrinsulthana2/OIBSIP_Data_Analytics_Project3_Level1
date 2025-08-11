@@ -19,7 +19,6 @@ To improve the quality of the NYC Airbnb dataset by ensuring:
 
 ##  Dataset
 **Source:** https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
-
 **File Used:** `AB_NYC_2019.csv`  
 **Rows:** 48,895  
 **Columns:** 16  
